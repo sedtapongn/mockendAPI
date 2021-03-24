@@ -7,7 +7,7 @@
         "userId": "int",
         "userName": "string",
         "voteCount": "int",
-        "approveDate": "2021-03-14T09:59:21.847Z",
+        "approveDate": "date",
         "rating": "int",
         "isRegisterLeader": "boolean",
         "projectLeaderId": "int",

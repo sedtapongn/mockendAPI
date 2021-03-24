@@ -1,0 +1,28 @@
+{
+    "Project": {
+        "catId": "int",
+        "catTitle": "string",
+        "projectId": "int",
+        "projectName": "string",
+        "userId": "int",
+        "userName": "string",
+        "voteCount": "int",
+        "approveDate": "2021-03-14T09:59:21.847Z",
+        "rating": "int",
+        "isRegisterLeader": "boolean",
+        "projectLeaderId": "int",
+        "projectLeaderName": "string",
+        "memberCount": "int",
+        "maxMember": "int",
+        "isProjectLeader": "boolean",
+        "isMember": "boolean",
+        "isSubmitMember": "boolean",
+        "objective": "string",
+        "structure": "string",
+        "budget": "string",
+        "expectedResult": "string",
+        "projectPeriod": "string",
+        "supportRequest": "string",
+        "isVoted": "boolean"
+    }
+}
